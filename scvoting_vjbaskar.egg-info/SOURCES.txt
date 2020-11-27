@@ -1,0 +1,7 @@
+README.md
+setup.py
+scvoting/__init__.py
+scvoting_vjbaskar.egg-info/PKG-INFO
+scvoting_vjbaskar.egg-info/SOURCES.txt
+scvoting_vjbaskar.egg-info/dependency_links.txt
+scvoting_vjbaskar.egg-info/top_level.txt
